@@ -30,7 +30,7 @@ This project includes both **implicit and explicit animations** to enhance UX:
   - Smooth visual feedback for state changes
 
 - **Explicit Animations**
-  - Controlled animations using `AnimationSwitcher`
+  - Controlled animations using `AnimatedSwitcher`
   - Custom animation timing and transitions for better user interaction
 
 Animations are used thoughtfully to improve clarity without overwhelming the UI.
@@ -77,13 +77,13 @@ This structure ensures clean code organization and easy maintainability.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Princewinston/<your-meals-repo-name>.git
+git clone https://github.com/Princewinston/flutter_meals_app.git
 
 ```
 
 2. Navigate to the project folder
 ```bash
-cd <your-meals-repo-name>
+cd flutter_meals_app
 
 ```
 3. Install dependencies
